@@ -1,0 +1,54 @@
+.container 
+{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice 
+{
+  text-align: center;
+  display: inline-block;
+}
+
+body 
+{
+  background-color: #111;
+}
+
+h1 
+{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+}
+
+.linear-wipe {
+  
+  background: linear-gradient(to right, #3df8f8 20%, #22f7c2 40%, #22f7c2 60%, #3df8f8 80%);
+  background-size: 200% auto;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p 
+{
+  font-size: 2rem;
+  color: #22f7c2;
+  font-family: 'Indie Flower', cursive;
+}
+
+img 
+{
+  width: 80%;
+}
+
+footer 
+{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
